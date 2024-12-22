@@ -1,3 +1,5 @@
+Por Ana Vitória Alves e Lucas Sorrilha
+
 Este projeto demonstra a criação de um site para coletar sugestões de melhorias para cidades. O objetivo é ajudar a identificar áreas que necessitam de atenção e melhorias com base na opinião dos cidadãos.
 
 Funcionalidades
